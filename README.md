@@ -1,11 +1,16 @@
-# Final-year-project: Automatic Facial Age Estimator Web App
+# Final-year-project 
 Web Application for Automatic Facial Age Estimation of Black Persons(Deep learning approach)
 
-## Home
-- The welcome Page looks like this:
-  
- ![App Home](https://github.com/htaofeek01/Final-year-project/blob/main/images/home.JPG)
+## Introduction
+Facial age estimation is an important aspect of computer vision with numerous applications,
+from biometrics to personalized content delivery. This research delves into the domain of
+Automatic Facial Age Estimation (AFAE) with a dedicated focus on black persons,
+leveraging a deep learning approach.
  
+## Home
+ ![App Home](https://github.com/htaofeek01/Final-year-project/blob/main/images/home.JPG)
+                             <em>  Fig1: Web App Home </em>
+                               
 ## Tools used
 - Programming language and frameworks: Python, Tensorflow, Ktrain, Flask, Git-Bash
 - Model training and evaluation: Google colab, Vs code
@@ -14,8 +19,8 @@ Web Application for Automatic Facial Age Estimation of Black Persons(Deep learni
 - Offline testing: Vscode terminal and Chrome browser
   
 ## Flow Chart
-
 ![Flow chart](https://github.com/htaofeek01/Final-year-project/blob/main/images/flowchart.png)
+<em> Fig2: Flow chart </em>
 
 ## Project Files
 - `frontend`: contains all Html files associated with the User interface design.
@@ -55,11 +60,10 @@ Web Application for Automatic Facial Age Estimation of Black Persons(Deep learni
 
 6. Register as new user or loging with initial credentials after your first login.
    - You try the Automatic Facial age estimation as many time as you want.
-   - Ensure the system can detect your face(proper room lightning)
-   - The Age Demo looks like this:
-     
+   - Ensure the system can detect your face(proper room lighting)
     ![Age Demo](https://github.com/htaofeek01/Final-year-project/blob/main/images/result1.JPG)
-
+                              <em> Fig3: The Age Demo </em>
+                              
 7. For live testing and Demo anywhere.
    - App not available
 
